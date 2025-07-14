@@ -1,19 +1,4 @@
-<h1 align="center">cuddy's sex swap</h1>
-<h3 align="center">lisa cuddy was a man</h3>
-
-- 🔭 I’m currently working on **cuddy**
-
-- 🌱 I’m currently learning **wilson's penis length**
-
-- 👯 I’m looking to collaborate on **foreman**
-
-- 🤝 I’m looking for help with **cameron's sex surgery**
-
-- 💬 Ask me about **why wilson uses c++**
-
-- 📫 How to reach me **foreman@gmail.com**
-
-- ⚡ Fun fact **foreman**
+idiot savant with the ability to write conceptual programs
 
 
 ![penile](https://avatars.githubusercontent.com/u/210395264?v=4)
