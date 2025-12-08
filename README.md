@@ -1,5 +1,3 @@
-![penile](https://avatars.githubusercontent.com/u/210395264?v=4)
-
 ## idiot savant with the ability to write conceptual programs
 
 <h3 align="left">languages i know: </h3>
