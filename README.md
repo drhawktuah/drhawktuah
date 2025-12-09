@@ -20,4 +20,7 @@
    <a href="https://www.c-language.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
    </a>
+   <a href="https://golang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/g-original.svg" alt="c" width="40" height="40"/>
+   </a>
 </p>
